@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Gift Closet Logo" src="../assets/bow.jpg" width="500">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Gift Closet Logo" src="../assets/bow.jpg" width="50">
+    <HelloWorld msg="Welcome to Your Gift Closet"/>
   </div>
 </template>
 
